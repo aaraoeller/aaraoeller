@@ -1,6 +1,6 @@
 ### Olá, eu sou o Aarão Eller 🙋🏼‍♂️
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaraoeller&layout=compact&theme=dracula)
+
 
 ### Tecnologias que já utilizei
 
