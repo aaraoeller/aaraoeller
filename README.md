@@ -5,7 +5,9 @@ Minha sede por conhecimento me levou a mergulhar profundamente na programação.
 Busco constantemente novos desafios e oportunidades de crescimento, 
 firmando-me como um profissional dedicado<br> e apaixonado pela tecnologia.
 
-### Tecnologias que já utilizei
+### Tecnologias ⚙️
+
+Essas são algumas das tecnologias que já tive algum contato em estudos, projetos pessoais e/ou no dia a dia profissionalmente 👨🏼‍💻
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -21,4 +23,4 @@ firmando-me como um profissional dedicado<br> e apaixonado pela tecnologia.
 </div<br/>
 <br></br>
 
-"A programação é como qualquer outro esporte; para ser bem-sucedido, você precisa praticar regularmente e se esforçar para melhorar constantemente." - David Ngo
+"A melhor maneira de prever o futuro é criá-lo." - Alan Kay
