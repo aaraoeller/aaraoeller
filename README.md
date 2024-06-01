@@ -1,6 +1,9 @@
 ### Olá, eu sou o Aarão Eller 🙋🏼‍♂️
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaraoeller&layout=compact&theme=dracula)
+Um programador júnior apaixonado por tecnologia desde muito jovem.<br>
+Minha sede por conhecimento me levou a mergulhar profundamente na programação.<br>
+Busco constantemente novos desafios e oportunidades de crescimento, 
+firmando-me como um profissional dedicado<br> e apaixonado pela tecnologia.
 
 ### Tecnologias que já utilizei
 
@@ -17,9 +20,5 @@
   <img align="center" alt="GITLAB" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div<br/>
 <br></br>
-Sou Aarão, um programador júnior apaixonado por tecnologia desde muito jovem. 
-Minha sede por conhecimento me levou a mergulhar profundamente na programação. 
-Busco constantemente novos desafios e oportunidades de crescimento, 
-firmando-me como um profissional dedicado e apaixonado pela tecnologia.
-<br></br>
+
 "A programação é como qualquer outro esporte; para ser bem-sucedido, você precisa praticar regularmente e se esforçar para melhorar constantemente." - David Ngo
