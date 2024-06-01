@@ -2,7 +2,7 @@
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ti-emerson-aarao?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaraoeller&layout=compact&theme=dracula)
 
 ### Tecnologias que já utilizei
 
